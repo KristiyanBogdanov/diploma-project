@@ -1,0 +1,9 @@
+[submodule "hw-service"]
+	path = hw-service
+	url = https://github.com/KristiyanBogdanov/hw-service
+[submodule "mobile-app-service"]
+	path = mobile-app-service
+	url = https://github.com/KristiyanBogdanov/mobile-app-service
+[submodule "mobile-app-frontend"]
+	path = mobile-app-frontend
+	url = https://github.com/KristiyanBogdanov/mobile-app-frontend
