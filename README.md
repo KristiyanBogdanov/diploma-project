@@ -40,4 +40,4 @@ PURPLE представлява система за повишаване на п
 
 # Демо:
 
-https://www.youtube.com/watch?v=QKF6KVVCpMk&t=8s
+https://www.youtube.com/watch?v=QKF6KVVCpMk
